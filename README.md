@@ -1,11 +1,11 @@
 # PASSWORD-MANAGER
 password manager using python
 
-implementation commands
+implementation commands:
 
   OPEN CMD 
-      >>>cd Desktop
+        $ cd Desktop
 
 
-      >>>python PASSWORD_MANAGER.py
+        $ python PASSWORD_MANAGER.py
 
