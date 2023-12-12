@@ -3,9 +3,9 @@ password manager using python
 
 implementation commands:
 
-  OPEN CMD 
+        # OPEN CMD 
+        
         $ cd Desktop
-
 
         $ python PASSWORD_MANAGER.py
 
